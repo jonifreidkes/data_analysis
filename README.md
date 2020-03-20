@@ -7,4 +7,4 @@ Main topics you can find:
 
 - Procedural Programming
 - Object-oriented programming (OOP)
-- Data analysis in Python
+- Exploratory Data analysis in Python
