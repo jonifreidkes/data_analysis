@@ -10,3 +10,4 @@ Main topics you can find:
 - Exploratory Data analysis in Python
 - Data cleaning
 - Data visualization
+- SQL
