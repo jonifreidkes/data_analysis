@@ -11,3 +11,5 @@ Main topics you can find:
 - Data cleaning
 - Data visualization
 - SQL
+- Statistics
+- Probability
