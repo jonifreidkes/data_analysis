@@ -8,8 +8,8 @@ Main topics you can find:
 - Procedural Programming
 - Object-oriented programming (OOP)
 - Exploratory Data analysis in Python
-- Data cleaning
-- Data visualization
+- Data cleaning in Python
+- Data visualization in Python
 - SQL
 - Statistics
 - Probability
